@@ -49,8 +49,11 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+<<<<<<< HEAD
     implementation("androidx.compose.material:material-icons-extended:1.6.1")
 
+=======
+>>>>>>> 7ee985d10d9f5c9d5b0b944e3df6f2ba819b3588
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -59,5 +62,8 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7ee985d10d9f5c9d5b0b944e3df6f2ba819b3588
 }

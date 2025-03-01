@@ -39,7 +39,11 @@ class MainActivity : ComponentActivity() {
         setContent {
             ComposeTestTheme {
 
+<<<<<<< HEAD
                 ColorBox()
+=======
+                NotificationCounter()
+>>>>>>> 7ee985d10d9f5c9d5b0b944e3df6f2ba819b3588
 
             }
         }
